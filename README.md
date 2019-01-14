@@ -1,2 +1,4 @@
 # DMOJ-CCC
-DMOJ CCC problems
+DMOJ CCC Problems
+
+Some solved CCC problems are included, all for fun!
