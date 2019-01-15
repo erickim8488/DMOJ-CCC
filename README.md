@@ -3,17 +3,8 @@ DMOJ CCC Problems
 
 Some solved CCC problems ranging from S3 ~ S5 are included, all for fun!
 
-S5:
-trucking troubles
+S5: trucking troubles
 
-S4:
-animal farm
-bridge crossing
-groups
-substrings
-waterpark
+S4: Animal Farm, Bridge Crossing, Groups, Substrings, Waterpark
 
-S3:
-floor plan
-friends
-quantum operations
+S3: Floor Plan, Friends, Quantum Operations
